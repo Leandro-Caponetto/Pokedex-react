@@ -16,6 +16,7 @@ body{
   background-position: center center;
   background-attachment: fixed; /* Esto evita que la imagen se desplace con el contenido */
   background-size: cover;
+  background-size: 70%;
   &::-webkit-scrollbar {
     width: 5px;
   }
